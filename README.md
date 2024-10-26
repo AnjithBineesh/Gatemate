@@ -1,95 +1,71 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# GATEMATE 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TECHTONICS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Elda Rosy Pinheiro - SNM Institute Of Management and Technology
+- Member 2: Anugraha Sunil - SNM Institute Of Management and Technology
+- Member 3: Anjith Bineesh -SNM Institute Of Management and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+The automatic smart gate system uses an Arduino, ultrasonic sensor, and servo motor to enable automated gate opening and closing. When the ultrasonic sensor detects an approaching object, the servo motor rotates to operate the gate accordingly
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Manual gate operation in residential, commercial, or secured areas can be inefficient, leading to delays and requiring constant human effort. Unattended gates also pose security risks, as they may be left open accidentally. 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+This project aims to develop an automatic smart gate system using an Arduino, ultrasonic sensor, and servo motor to detect objects and automatically operate the gate, providing a convenient and secure solution for controlled access
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Arduino IDE
+- C Program
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Arduino Uno
+- IR Sensor
+- Servo Motor
+- LCD Display
+- Resistor - 220ohm
+- Potentiometer -10k
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
-[commands]
+Arduino IDE-https://www.arduino.cc/en/software
+Tinkercad for simulation- https://www.tinkercad.com/
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
+# Diagrams & Simulation
+https://www.tinkercad.com/things/l5vBxrvxZ9s-final-project?sharecode=lS3BMeGDjv0X-_QPcIfdu-CIrUbbt7Nvst_-VmNshTc
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+[schematic diagram.pdf](https://github.com/user-attachments/files/17528752/schematic.diagram.pdf)
+![circuit Diagram](https://github.com/user-attachments/assets/ee7d9d7b-6d44-45dd-9543-6f5dc9481987)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![IMG20241026071519](https://github.com/user-attachments/assets/590056e8-6023-4fbd-8b9f-26e8677cb75b)
+![IMG20241026071526](https://github.com/user-attachments/assets/84d7a3ab-c616-411e-afd8-caa7b9ca01b0)
+![IMG20241026071510](https://github.com/user-attachments/assets/8447d388-d7d9-4ff7-bf9e-26024ad8fa52)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://github.com/user-attachments/assets/7a8e7139-d706-48a2-a5a4-915dab694481
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Elda Rosy Pinheiro: Tinkercad Simulation
+- Anugraha Sunil: Arduino code developing 
+- Anjith Bineesh: Hardware Setup of the project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
