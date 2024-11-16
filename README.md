@@ -5,6 +5,12 @@
 ### Project Demo
 # Video
 
+Google Drive Link
+
+https://drive.google.com/file/d/1yz6K9AYg8klMgbk29l1dQldql_BCB74x/view?usp=drivesdk
+
+Git attachment 
+
 https://github.com/user-attachments/assets/7a8e7139-d706-48a2-a5a4-915dab694481
 
 ## Basic Details
