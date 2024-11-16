@@ -2,6 +2,10 @@
 
 # GATEMATE 🎯
 
+### Project Demo
+# Video
+
+https://github.com/user-attachments/assets/7a8e7139-d706-48a2-a5a4-915dab694481
 
 ## Basic Details
 ### Team Name: TECHTONICS
@@ -56,10 +60,6 @@ https://www.tinkercad.com/things/l5vBxrvxZ9s-final-project?sharecode=lS3BMeGDjv0
 ![IMG20241026071510](https://github.com/user-attachments/assets/8447d388-d7d9-4ff7-bf9e-26024ad8fa52)
 
 
-### Project Demo
-# Video
-
-https://github.com/user-attachments/assets/7a8e7139-d706-48a2-a5a4-915dab694481
 
 
 ## Team Contributions
